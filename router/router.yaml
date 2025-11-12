@@ -30,10 +30,10 @@ subscription:
           path: /
 ## Enter Workshop Module Configs Below
 # persisted queries either pq or apq to be enabled - setting internal to apollo
-persisted_queries:
-  enabled: true
-  safelist:
-    enabled: true
-    require_id: false
-apq:
-  enabled: false
+# persisted_queries:
+#   enabled: true
+#   safelist:
+#     enabled: true
+#     require_id: false
+# apq:
+#   enabled: false
